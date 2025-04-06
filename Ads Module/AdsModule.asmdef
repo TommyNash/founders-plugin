@@ -1,7 +1,0 @@
-{
-  "name": "FoundersPlugin.AdsModule",
-  "references": [
-    "FoundersPlugin.Core"
-  ],
-  "autoReferenced": false
-}
