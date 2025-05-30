@@ -1,5 +1,5 @@
 {
-    "ModuleName": "Ads Module",
+    "ModuleName": "AdsModule",
     "ModuleVersion": "1.0.0",
     "ModuleDescription": "Модуль для работы с рекламой в Yandex Games",
     "Dependencies": [],
