@@ -3,7 +3,7 @@
     "ModuleVersion": "1.0.0",
     "ModuleDescription": "Модуль для работы с рекламой в Yandex Games",
     "Dependencies": [],
-    "RequiredUnityVersion": "2020.3.0",
+    "RequiredUnityVersion": "2023.3.0",
     "RequiredFoundersPluginVersion": "1.0.0",
     "Files": [
         {
