@@ -1,0 +1,19 @@
+{
+  "IsLocalModule": false,
+  "SourceType": 1,
+  "Name": "AdsModule",
+  "ModuleName": "AdsModule",
+  "Version": "1.0.0",
+  "ModuleVersion": "1.0.0",
+  "Description": "Модуль для работы с рекламой в Yandex Games",
+  "ModuleDescription": "Модуль для работы с рекламой в Yandex Games",
+  "RequiredUnityVersion": "2023.3.0",
+  "LocalPath": "/Users/tommy/Documents/FoundersPlugin/Main/FoundersKitYandexGames/Assets/FoundersPlugin/Modules/AdsModule",
+  "IsEnabled": true,
+  "IsInstalled": false,
+  "GitHubRepository": null,
+  "GitHubBranch": "main",
+  "Url": "https://api.github.com/repos/TommyNash/founders-plugin/contents/AdsModule?ref=main",
+  "DownloadUrl": "https://raw.githubusercontent.com/TommyNash/founders-plugin/main/AdsModule/module.json",
+  "Status": 1
+}
