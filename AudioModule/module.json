@@ -1,0 +1,66 @@
+{
+    "ModuleName": "AudioModule",
+    "ModuleVersion": "1.0.0",
+    "ModuleDescription": "Модуль для работы с аудио в WebGL играх",
+    "RequiredUnityVersion": "2021.3.0",
+    "RequiredFoundersPluginVersion": "1.0.0",
+    "Platforms": [
+        {
+            "Name": "WebGL",
+            "IsRequired": true
+        },
+        {
+            "Name": "YandexGames",
+            "IsRequired": true
+        }
+    ],
+    "Dependencies": [],
+    "Files": [
+        {
+            "Path": "AudioModule.cs",
+            "Type": "Script"
+        },
+        {
+            "Path": "AudioModuleEditor.cs",
+            "Type": "EditorScript"
+        },
+        {
+            "Path": "Core/SourceAudio.cs",
+            "Type": "Script"
+        },
+        {
+            "Path": "Core/AudioManagement.cs",
+            "Type": "Script"
+        },
+        {
+            "Path": "Core/AudioDatabase.cs",
+            "Type": "Script"
+        },
+        {
+            "Path": "Utils/AudioDataProperty.cs",
+            "Type": "Script"
+        },
+        {
+            "Path": "Utils/AudioPauseHandler.cs",
+            "Type": "Script"
+        },
+        {
+            "Path": "Plugins/WebAudioPlugin/howler.min.js",
+            "Type": "Plugin"
+        },
+        {
+            "Path": "Plugins/WebAudioPlugin/WebAudio.js",
+            "Type": "Plugin"
+        }
+    ],
+    "Settings": {
+        "DefaultVolume": 1.0,
+        "CacheLifetimeSeconds": 300,
+        "MaxCacheItems": 100
+    },
+    "GitHubRepository": "founders-plugin",
+    "GitHubBranch": "main",
+    "Url": "https://api.github.com/repos/TommyNash/founders-plugin/contents/AudioModule?ref=main",
+    "DownloadUrl": "https://raw.githubusercontent.com/TommyNash/founders-plugin/main/AudioModule/module.json",
+    "SourceType": 1
+} 
