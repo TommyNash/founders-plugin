@@ -1,0 +1,27 @@
+{
+    "SourceType": 1,
+    "ModuleName": "DataModule",
+    "ModuleVersion": "1.0.0",
+    "ModuleDescription": "Модуль для работы с прогрессом в WebGL играх",
+    "RequiredUnityVersion": "2021.3.0",
+    "RequiredFoundersPluginVersion": "1.0.0",
+    "Platforms": [
+        {
+            "Name": "YandexGames",
+            "IsRequired": true
+        }
+    ],
+    "Dependencies": [],
+    "Files": [
+        {
+            "Path": "DataModule.cs",
+            "Type": "Script"
+        }
+    ],
+
+    "GitHubRepository": "founders-plugin",
+    "GitHubBranch": "main",
+    "Url": "https://api.github.com/repos/TommyNash/founders-plugin/contents/AudioModule?ref=main",
+    "DownloadUrl": "https://raw.githubusercontent.com/TommyNash/founders-plugin/main/AudioModule/module.json",
+    "Status": 1
+}
