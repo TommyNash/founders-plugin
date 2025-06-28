@@ -1,0 +1,46 @@
+{
+  "SourceType": 1,
+  "ModuleName": "PaymentsModule",
+  "ModuleVersion": "1.0.0",
+  "ModuleDescription": "Модуль для работы с платежами и покупками в Yandex Games",
+  "RequiredUnityVersion": "2021.3.0",
+  "RequiredFoundersPluginVersion": "1.0.0",
+  "Platforms": [
+    {
+      "Name": "YandexGames",
+      "IsRequired": true
+    }
+  ],
+  "Dependencies": [],
+  "Files": [
+    {
+      "Path": "PaymentsModule.cs",
+      "Type": "Script"
+    },
+    {
+      "Path": "Utils/PurchaseItemUI.cs",
+      "Type": "Script"
+    },
+    {
+      "Path": "Examples/PaymentsExample.cs",
+      "Type": "Script"
+    },
+    {
+      "Path": "Plugins/YandexPayments.jslib",
+      "Type": "Plugin"
+    }
+  ],
+  "Settings": {
+    "UsePurchases": false,
+    "AutoConsumePurchases": true,
+    "PurchaseTimeoutSeconds": 30,
+    "DefaultCurrency": "RUB",
+    "EnableProductCache": true,
+    "MaxCachedProducts": 50
+  },
+  "GitHubRepository": "founders-plugin",
+  "GitHubBranch": "main",
+  "Url": "https://api.github.com/repos/TommyNash/founders-plugin/contents/PaymentsModule?ref=main",
+  "DownloadUrl": "https://raw.githubusercontent.com/TommyNash/founders-plugin/main/PaymentsModule/module.json",
+  "Status": 1
+}
